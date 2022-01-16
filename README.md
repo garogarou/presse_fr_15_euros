@@ -7,9 +7,9 @@ Oui parce qu'il faut le mériter... sinon tout le monde pourrait en profiter, m�
 Bref, un petit mode d'emploi :
 
 
-1. téléchargez (https://about.pressreader.com/download-app/) ... ça commence bien hein ? Vive le service publique...
-2. Créez un compte sur pressreader . Viva el sevice de la  republica ! Le plus simple, c'est avec l'appli. D'après mes renseignements, ça marche aussi avec un navigateur web, mais j'ai pas encore eu mon compte validé !
-3.  Créez un compte sur la BNF (https://inscriptionbilletterie.bnf.fr) en choisissant le passe (avec un e, en français, ne déplaise) "BNF Illimité LECTURE CULTURE" !
+1. téléchargez (https://about.pressreader.com/download-app/) ... ça commence bien hein ? Vive le service public...
+2. Créez un compte sur pressreader . Viva el sevice de la  republica ! Le plus simple, c'est avec l'appli. Il semble que ça marche aussi avec un navigateur web (firefox...), mais j'ai pas encore eu mon compte validé !
+3. Créez un compte sur la BNF (https://inscriptionbilletterie.bnf.fr) en choisissant le passe (avec un e, en français, ne déplaise) "BNF Illimité LECTURE CULTURE" !
 
     ![abonnement_bnf.png](./images/abonnement_bnf.png)
 
@@ -34,7 +34,8 @@ Bref, un petit mode d'emploi :
   Voilà. J'avais prévenu, c'est pas "super simple"...
 
 
-
-
 Bon pour ceux qui trouvent ça chouette mais trop compliqué (#cépafo) :  vous pouvz aussi créer un compte perso sur PressReader... c'est 30€... par mois ....  Ou bien profiter du service public...
+
+
+PS : [vu en premier ici](https://twitter.com/Silvae/status/1482037482858463236)
 
